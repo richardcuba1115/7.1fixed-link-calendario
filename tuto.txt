@@ -1,5 +1,5 @@
 [Reenviado de ⚙️Soporte Bots Free⚙️]
-☺️Bienvenidos A TGMoodleFreeV1.5☺️
+☺️Bienvenidos A 7.1fix_LinkCalendar☺️
 ———————————————-——-
 ❗️Requisitos Tener Cuenta En❗️
 ———————————————-——-
@@ -13,8 +13,8 @@ https://cursos.uo.edu.cu/
 https://eva.uo.edu.cu/
 
 ⚙️Usuarios Soporte⚙️
-@developer01dev
-@shapingdev
+@RichZC
+
 ———————————————-——-
 ⚙️Spoporte De Urls⚙️
 ———————————————-——-
@@ -25,7 +25,7 @@ Youtube (Nota: Descargas un poco lentas)
 
 -Para generar un enlace de un archivo de telegram reenvie el archivo a @tg_file_link_bot y le respondra con un mensaje de varios botons, deje apretado el primer boton y copie el enlace.
 
-Hablar con los de soporte para q les de
+Hablar con soporte para q les de
 un tiempo de prueba al bot
 ———————————————-——-
 📑Tutorial📑
